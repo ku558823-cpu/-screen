@@ -1,0 +1,6 @@
+{
+  "name": "Screen Studio",
+  "description": "Custom interactive web application built with modern UI screens and components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
